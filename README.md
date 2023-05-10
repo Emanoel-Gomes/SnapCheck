@@ -9,6 +9,8 @@ Digite as coordenadas X e Y da posição na tela em que deseja tirar os screensh
 
 Digite a largura e altura da região de captura.
 
+Clique no botão "Select Directory" para escolher o diretório onde as imagens dos screenshots serão salvas.
+
 Clique no botão "Start" para iniciar a captura de screenshots.
 
 Para pausar a captura, clique no botão "Pause".
