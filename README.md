@@ -20,10 +20,10 @@ Para retomar a captura, clique no botão "Resume".
 Lembre-se de mudar o local da imagem em:
     
     self.reference_image = Image.open("referencia.png")
-Caso queira salvar todas imagens, modifique isso:
+Caso queira salvar todas imagens, modifique isto:
       
     screenshot.save("screenshot.png")
  
-Para isso:
+Para isto:
 
     screenshot.save(f"screenshot_{self.screenshot_count}.png")
