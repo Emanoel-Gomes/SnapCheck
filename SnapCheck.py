@@ -49,7 +49,7 @@ class App:
     def create_gui(self):
         global root
         root = tk.Tk()
-        root.geometry("250x150")
+        root.geometry("300x200")
         root.title("Screenshot Taker")
         start_button = tk.Button(root, text="Start", width=10, command=self.start)
         start_button.pack(pady=10)
